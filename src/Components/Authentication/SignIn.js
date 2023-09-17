@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import facebookLogo from "../../../Image/f_logo_RGB-Blue_1024.png";
-import googleLogo from "../../../Image/google.svg";
-import loginImg from "../../../Image/login-img.png";
+import facebookLogo from "../../Image/f_logo_RGB-Blue_1024.png";
+import googleLogo from "../../Image/google.svg";
+import loginImg from "../../Image/login-img.png";
 const SignIn = () => {
   const [showPass, setShowPass] = useState(false);
   return (

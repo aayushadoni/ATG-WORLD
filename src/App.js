@@ -1,8 +1,8 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
-import AllPost from "./Components/Page/AllPost/AllPost";
-import Header from "./Components/Page/Header/Header";
-import Navbar from "./Components/Page/Navbar/Navbar";
+import AllPost from "./Components/AllPost/AllPost";
+import Header from "./Components/Header/Header";
+import Navbar from "./Components/Navbar/Navbar";
 
 function App() {
   return (

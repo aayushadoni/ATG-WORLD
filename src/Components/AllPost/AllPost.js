@@ -288,7 +288,7 @@ const AllPost = () => {
           <div className="d-flex align-items-center justify-content-between mt-5">
             <div>
               <h5>
-                <i className="fa-solid fa-location-dot"></i> Noida, India
+                <i className="fa-solid fa-location-dot"></i> Gwalior, India
               </h5>
             </div>
             <div>
